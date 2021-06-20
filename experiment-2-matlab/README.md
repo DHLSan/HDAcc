@@ -1,4 +1,5 @@
 **Experiment #2**
+
 We aimed to make our progress on a different matlab code by changing our data sets and related functions in this experiment.
 
 Since the dataset we used in this experiment consisted of only emg signals, it was quite successful in increasing our consistency rate.
