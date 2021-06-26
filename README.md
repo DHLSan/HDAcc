@@ -13,5 +13,6 @@ these stages.
 
 **Therefore, this project could not be completed successfully.**
 
-  **ESKISEHIR TECHNICAL UNIVERSITY**
+**ESKISEHIR TECHNICAL UNIVERSITY**
+
 **We would like to thank our supervisor İSMAİL SAN for his support and help.**
