@@ -9,4 +9,6 @@ Since the accuracy of the experiment was not sufficient, we searched a second ex
 We were able to perform experiments with higher accuracy on this dataset. The next step after the 
 experiments were completed was that these codes could run first in the c language and then on the 
 hardware. We were not successful because of the code conversion and algorithm we experienced during 
-these stages. **Therefore, our project could not be completed successfully.**
+these stages. 
+
+**Therefore, our project could not be completed successfully.**
