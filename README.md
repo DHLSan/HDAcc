@@ -8,7 +8,7 @@ exactly what we wanted. During this experiment, we worked on encoding and HD com
 Since the accuracy of the experiment was not sufficient, we searched for a second experimental dataset. 
 We were able to perform experiments with higher accuracy on this dataset. The next step after the 
 experiments were completed was that these codes could run first in the c language and then on the 
-hardware(Xilinx Zynq-7000 SoC Architecture). We were not successful because of the code conversion 
+hardware (Xilinx Zynq-7000 SoC Architecture). We were not successful because of the code conversion 
 and algorithm we experienced during these stages. 
 
 **Therefore, this project could not be completed successfully.**
