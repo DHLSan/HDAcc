@@ -11,4 +11,4 @@ experiments were completed was that these codes could run first in the c languag
 hardware. We were not successful because of the code conversion and algorithm we experienced during 
 these stages. 
 
-**Therefore, our project could not be completed successfully.**
+**Therefore, this project could not be completed successfully.**
