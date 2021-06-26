@@ -1,10 +1,9 @@
 **Experiment #2**
 
-We aimed to make our progress on a different matlab code by changing our data sets and related functions in this experiment.
 
-Since the dataset we used in this experiment consisted of only emg signals, it was quite successful in increasing our consistency rate.
-Our accuracy rate, which we reached to 72% in our previous experiment, was able to reach high accuracy levels such as 97% by 
-applying similar operations in this dataset. When we thought that we had reached sufficient levels of accuracy in the matlab code 
-we were working on, we started to translate our application to c language. Since Matlab-specific functions are also translated into
-c language, this part was longer and more difficult than we thought. We aim to integrate each function we use here into the c language
-one by one and successfully calculate accuracy there.
+In our second experiment, we performed an experiment whose dataset was more suitable for our study. 
+The dataset we used in this MATLAB experiment was recorded by reading 5 different hand gesture from 4 different channels.
+Since these recordings were directly from hand gestures, it was necessary to filter the EMG signals in the experiment.
+The genfilter.m function was used to perform the filtering processes. Then, after this process, we run the genheat.m 
+function to create a heat map. Then we ran the getacc.m function and performed the experiment. 
+This dataset was also .mat extension, we made this dataset with excel extension to make it suitable for our own code
